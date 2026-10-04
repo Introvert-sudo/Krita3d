@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=krita3d
+X-Python-2-Compatible=false
+Name=Krita 3D Reference
+Comment=View 3D models (OBJ, GLB, STL) as a reference layer in Krita
